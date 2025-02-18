@@ -1,8 +1,6 @@
 export function RegistroProveedor(){
     return(
-
         <>
-
             <form className="border rounded p-5">
 
                 <div className="mb-3">
@@ -34,11 +32,12 @@ export function RegistroProveedor(){
                 </div>
 
                 <div className="mb-3">
-                    <input type="date" className="form-control" placeholder="Fecha Envio"/>
+                    <input type="number" className="form-control" placeholder="Costo Envio"/>
                 </div>
 
                 <div className="mb-3">
-                    <input type="number" className="form-control" placeholder="Costo Envio"/>
+                    <label htmlFor=""> Fecha de Envio</label>
+                    <input type="date" className="form-control"placeholder="Fecha de Envio"  name="" id="" />
                 </div>
 
                 <div className="mb-3">

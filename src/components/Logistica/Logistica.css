@@ -1,0 +1,13 @@
+.banner-logistica{ 
+    background-image: url("../../assets/logistica-img.jpg");
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 15%;
+}
+.informacion-logistica  {
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.664);
+    border-radius: 0.5rem;
+    padding:2vh;
+}
