@@ -45,9 +45,6 @@ export function RegistroProveedor(){
                 </div>
 
                 <button className="btn btn-primary w-100">Enviar</button>
-
-               
-
             </form>
         
         
