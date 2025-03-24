@@ -1,6 +1,14 @@
 import "./Home.css"
 import { RegistroProveedor } from "../RegistroProveedor/RegistroProveedor"
+import { useEffect,useState } from "react"
+import { useFetcher } from "react-router-dom"
 export function Home(){
+    
+const [datosProveedor,setDatosProveedor]=useState([])   
+const [datosLogistica,setDatosLogistica]=useState([])   
+const [carga,setCarga]=useState(false)
+
+useEffect(()=>{},[])
 
     return(
 
