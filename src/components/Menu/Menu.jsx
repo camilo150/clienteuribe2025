@@ -4,9 +4,6 @@ export function Menu() {
     <>
       <nav className="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
         <div className="container-fluid">
-          <a className="navbar-brand" href="#">
-            Navbar
-          </a>
           <button
             className="navbar-toggler"
             type="button"
@@ -29,16 +26,6 @@ export function Menu() {
                 <Link className="nav-link" to="/logistica">
                   Logistica
                 </Link>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="#">
-                  Pricing
-                </a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link disabled" aria-disabled="true">
-                  Disabled
-                </a>
               </li>
             </ul>
           </div>

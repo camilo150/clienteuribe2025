@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "nombres": "camilo",
+        "documento": "1000000",
+        "direccion": "carrera #666",
+        "ciudad": "chocó",
+        "representante": "pepe",
+        "telefonoContacto": "321312",
+        "correo": "camilo@gmail.com",
+        "fechaDeEnvio": "2025-03-22",
+        "costoDeEnvio": 100000,
+        "descripcion": "caja de cigarros"
+    },
+    {
+        "id": 2,
+        "nombres": "pepe",
+        "documento": "4000000",
+        "direccion": "bella vista",
+        "ciudad": "bella vista",
+        "representante": "camilo",
+        "telefonoContacto": "3232323",
+        "correo": "pepe@gmail.com",
+        "fechaDeEnvio": "2025-03-22",
+        "costoDeEnvio": 555550,
+        "descripcion": "camisa polo raft laurent"
+    },
+    {
+        "id": 3,
+        "nombres": "adriel",
+        "documento": "1018235200",
+        "direccion": "carrera 65",
+        "ciudad": "bajo cauca",
+        "representante": "pepe",
+        "telefonoContacto": "320320320",
+        "correo": "adirel123@gmail.com",
+        "fechaDeEnvio": "2025-03-22",
+        "costoDeEnvio": 250000,
+        "descripcion": "iron man de 1,50m"
+    },
+    {
+        "id": 4,
+        "nombres": "oliver",
+        "documento": "3546680",
+        "direccion": "calle 98",
+        "ciudad": "medellin",
+        "representante": "pepe",
+        "telefonoContacto": "3122040",
+        "correo": "oliver@gmail.com",
+        "fechaDeEnvio": "2025-03-22",
+        "costoDeEnvio": 200000,
+        "descripcion": "pelota de mesi"
+    },
+    {
+        "id": 5,
+        "nombres": "ana",
+        "documento": "123123131",
+        "direccion": "carrera 420",
+        "ciudad": "bello",
+        "representante": "pepe",
+        "telefonoContacto": "3200231",
+        "correo": "ana@gmail.com",
+        "fechaDeEnvio": "2025-03-22",
+        "costoDeEnvio": 500000,
+        "descripcion": "caja de colores "
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombreEncargado": "pepe",
+        "correoEncargado": "pepe@gmail.com",
+        "contactoEncargado": "123132123",
+        "fechaEnvio": "2025-03-22",
+        "descripcion": "caja de cigarros"
+    },
+    {
+        "id": 2,
+        "nombreEncargado": "mauricio",
+        "correoEncargado": "maurio@gmail.com",
+        "contactoEncargado": "3022331232",
+        "fechaEnvio": "2025-02-12",
+        "descripcion": "caja de pistachos"
+    },
+    {
+        "id": 3,
+        "nombreEncargado": "argemiro",
+        "correoEncargado": "brrbrrpatapim@gmail.com",
+        "contactoEncargado": "31120232",
+        "fechaEnvio": "2025-02-05",
+        "descripcion": "caja de crayones"
+    },
+    {
+        "id": 4,
+        "nombreEncargado": "epulvigio",
+        "correoEncargado": "salameleco@gmail.com",
+        "contactoEncargado": "3442121",
+        "fechaEnvio": "2025-02-05",
+        "descripcion": "caja de zapatos"
+    },
+    {
+        "id": 5,
+        "nombreEncargado": "casimirio",
+        "correoEncargado": "casmimiro@gmail.com",
+        "contactoEncargado": "2313232",
+        "fechaEnvio": "2025-03-12",
+        "descripcion": "casisetas polo talla L"
+    },
+    {
+        "id": 14,
+        "nombreEncargado": "alehandro",
+        "correoEncargado": "alejo@gmail.com",
+        "contactoEncargado": "302232321",
+        "fechaEnvio": "2025-04-05",
+        "descripcion": "caja de semillas de abedul"
+    }
+]

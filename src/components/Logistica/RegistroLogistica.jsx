@@ -3,15 +3,15 @@ export function RegistroLogistica(){
         <>
             <form className="border rounded p-5">
                 <div className="mb-3">
-                    <input type="text" className="form-control"placeholder="Nombre proveedor" required name="" id="" />
+                    <input type="text" className="form-control"placeholder="Nombre proveedor Logistico" required name="" id="" />
                 </div>
                 
                 <div className="mb-3">
-                    <input type="text" className="form-control"placeholder="Correo proveedor" required name="" id="" />
+                    <input type="text" className="form-control"placeholder="Correo proveedor Logistico" required name="" id="" />
                 </div>
 
                 <div className="mb-3">
-                    <input type="text" className="form-control"placeholder="Contacto proveedor" required name="" id="" />
+                    <input type="text" className="form-control"placeholder="Contacto proveedor Logistico" required name="" id="" />
                 </div>
 
                 <div className="mb-3">
